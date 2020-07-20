@@ -9,7 +9,7 @@ const button2 = document.querySelector('#button2')
 const gameMap = {
     scene1: { 
         title: "Phase 1: Nature's Deadliest Mission", 
-        desc: "This is your big chance", 
+        desc: "Following noise of a commotion, you are startled to find a bear going for its next meal", 
         choices: 
         [ 
             { text: "run to cover", scene: "scene3"}, 
