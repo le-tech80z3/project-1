@@ -11,7 +11,10 @@
 #### Making a solid MVP was a top priority given the timeframe, and my story doesn't include the proper character images given the continuity problem of different scenes. Maybe I will create the character **AiXmachine7earn** as an original piece while I complete the story at a later, less hectic time. That said, the story paths lead to a TBA (ending), a cut short explanation (ending), and a user feedback event listener that should provide a "CHA-CHING" sound (ending). This is in no way the end of the original story, which is outlined below (wireframe included) :
 
 ![Image of AiXmachine7earn XXVII wireframe](https://octodex.github.com/assets/aixmachine.jpeg) 
-Format: ![Alt Text](url)
+
+#### Link to wireframe: 
+https://wireframe.cc/V0OxBq - automatic!
+[wireframe](https://wireframe.cc/V0OxBq)
 
 
 
